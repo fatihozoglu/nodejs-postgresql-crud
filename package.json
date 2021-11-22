@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-smart-edu",
+  "name": "nodejs-postgresql-crud",
   "version": "1.0.0",
-  "description": "This is an online course project with authentication for creating, listing and enrolling several courses.",
+  "description": "Basic CRUD operations with Expressjs and PostgreSQL",
   "main": "app.js",
   "scripts": {
     "start": "node app",
